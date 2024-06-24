@@ -17,8 +17,8 @@ This project is a Django-based web application that provides APIs to fetch weath
 - **Request Body:**
   ```json
   {
-    "username": "your_username",
-    "password": "your_password"
+    "username": "username",
+    "password": "password"
   }
   ```
 - **Response:**
